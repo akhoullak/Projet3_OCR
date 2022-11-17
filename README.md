@@ -7,10 +7,17 @@ repartir l’activité. En tapant “Entreprise web design Lyon” sur Internet,
 de l’agence apparaît seulement en deuxième page des moteurs de recherche. Par chance, un
 de vos collègues, Martin, lui a dit que vous étiez un spécialiste en référencement.
 
-Compétences évaluées
-Écrire un code HTML et CSS maintenable
-Assurer l'accessibilité d'un site web
-Optimiser le référencement d'un site web
-Réaliser une recherche des bonnes pratiques en développement web
-Optimisez un site web existant 
-Optimiser la taille et la vitesse d’un site web
+Compétences évaluées;
+
+Écrire un code HTML et CSS maintenable.
+
+Assurer l'accessibilité d'un site web.
+
+Optimiser le référencement d'un site web.
+
+Réaliser une recherche des bonnes pratiques en développement web.
+
+Optimisez un site web existant.
+
+Optimiser la taille et la vitesse d’un site web.
+
