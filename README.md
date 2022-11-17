@@ -1,4 +1,4 @@
-# Projet4_OCR
+# Projet3_OCR
 Optimisez un site web existant
 Vous travaillez pour La chouette agence, une grande agence de web design basée à Lyon.
 L’activité de l’entreprise a bien démarré mais aujourd’hui, elle est en perte de vitesse. Eh oui, la
